@@ -283,7 +283,7 @@ Healthcare-Analytics-Dashboard
 
 # 👨‍💻 Author
 
-**Sarthak Mukherjee**
+**Sarthak Mukherjee** and **Surojit Jana**
 
 B.Tech Computer Science & Engineering
 
