@@ -117,7 +117,8 @@ The dashboard includes the following business visuals:
 
 # 📷 Dashboard Preview
 
-![Uploading Screenshot 2026-07-06 141900.png…]()
+<img width="1167" height="657" alt="Screenshot 2026-07-06 141900" src="https://github.com/user-attachments/assets/152bea2c-5f10-472c-98f6-6822cd6cc74f" />
+
 
 
 ---
