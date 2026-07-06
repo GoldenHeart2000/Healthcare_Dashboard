@@ -117,17 +117,8 @@ The dashboard includes the following business visuals:
 
 # 📷 Dashboard Preview
 
-## Executive Overview
+![Uploading Screenshot 2026-07-06 141900.png…]()
 
-> Save your dashboard screenshot inside a folder named **Dashboard Screenshots** and reference it like this:
-
-```markdown
-![Healthcare Dashboard](Dashboard%20Screenshots/Executive_Overview.png)
-```
-
-Example:
-
-![Healthcare Dashboard]
 
 ---
 
