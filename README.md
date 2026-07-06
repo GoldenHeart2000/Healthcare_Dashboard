@@ -1,4 +1,4 @@
-# 🏥 Healthcare Analytics Dashboard
+# Healthcare Analytics Dashboard
 
 > **An end-to-end Business Intelligence project built using Excel, MySQL, and Power BI to analyze hospital operations, patient demographics, financial performance, and healthcare outcomes.**
 
@@ -9,7 +9,7 @@
 
 ---
 
-# 📖 Project Overview
+# Project Overview
 
 Healthcare organizations generate massive amounts of operational and clinical data every day. Transforming this raw data into meaningful insights is essential for improving patient care, reducing operational costs, and enabling data-driven decision making.
 
@@ -28,7 +28,7 @@ The dashboard enables hospital administrators and executives to monitor:
 
 ---
 
-# 🎯 Business Problem
+# Business Problem
 
 Hospital management often struggles to answer questions such as:
 
@@ -56,7 +56,7 @@ This dashboard provides a centralized executive view to support strategic and op
 
 ---
 
-# 📂 Project Workflow
+# Project Workflow
 
 ```
 Raw Dataset
@@ -85,7 +85,7 @@ Interactive Dashboard
 
 ---
 
-# 📊 Dashboard KPIs
+# Dashboard KPIs
 
 | KPI | Description |
 |------|------------|
@@ -97,7 +97,7 @@ Interactive Dashboard
 
 ---
 
-# 📈 Dashboard Visualizations
+# Dashboard Visualizations
 
 ### Executive KPIs
 
@@ -120,7 +120,7 @@ Interactive Dashboard
 
 ---
 
-# 📷 Dashboard Preview
+# Dashboard Preview
 
 ## Executive Overview
 
@@ -132,7 +132,7 @@ Interactive Dashboard
 
 ---
 
-# 📊 SQL Analysis
+# SQL Analysis
 
 Performed SQL queries including:
 
@@ -156,7 +156,7 @@ ORDER BY TotalPatients DESC;
 
 ---
 
-# 📋 Data Cleaning Process
+# Data Cleaning Process
 
 The raw healthcare dataset was cleaned using Microsoft Excel.
 
@@ -178,39 +178,39 @@ The raw healthcare dataset was cleaned using Microsoft Excel.
 
 ---
 
-# 📌 Business Insights
+# Business Insights
 
-### 📍 Insight 1
+### Insight 1
 
 Emergency admissions account for nearly one-third of total admissions, indicating significant emergency care demand.
 
 ---
 
-### 📍 Insight 2
+### Insight 2
 
 A small number of doctors handle a disproportionately high volume of patient admissions, suggesting uneven workload distribution.
 
 ---
 
-### 📍 Insight 3
+### Insight 3
 
 Certain medical conditions contribute the largest share of patient cases, highlighting areas where specialized healthcare resources may be needed.
 
 ---
 
-### 📍 Insight 4
+### Insight 4
 
 Insurance providers differ in the number of covered admissions, providing opportunities to strengthen partnerships with high-volume insurers.
 
 ---
 
-### 📍 Insight 5
+### Insight 5
 
 Patient demographics reveal age groups that require the greatest healthcare services, supporting targeted resource planning.
 
 ---
 
-# 📌 Business Recommendations
+# Business Recommendations
 
 ### Improve Resource Allocation
 
@@ -242,7 +242,7 @@ Allocate specialized medical resources toward frequently occurring conditions.
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 Healthcare-Analytics-Dashboard
@@ -270,7 +270,7 @@ Healthcare-Analytics-Dashboard
 
 ---
 
-# 🚀 Future Enhancements
+# Future Enhancements
 
 - Predictive Patient Admission Forecasting
 - Readmission Analysis
@@ -281,19 +281,13 @@ Healthcare-Analytics-Dashboard
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Sarthak Mukherjee** and **Surojit Jana**
 
 B.Tech Computer Science & Engineering
 
 Government College of Engineering & Leather Technology
-
-📧 Email: Your Email
-
-🔗 LinkedIn: Your LinkedIn URL
-
-💻 GitHub: Your GitHub Profile
 
 ---
 
