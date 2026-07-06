@@ -127,7 +127,7 @@ The dashboard includes the following business visuals:
 
 Example:
 
-![Healthcare Dashboard](Dashboard%20Screenshots/Executive_Overview.png)
+![Healthcare Dashboard]
 
 ---
 
@@ -323,11 +323,11 @@ This dashboard helps organizations:
 
 Government College of Engineering & Leather Technology
 
-📧 Email: your-email@example.com
+📧 Email: mukherjeesarthak2000@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: www.linkedin.com/in/sarthak-mukherjee-66271220a
 
-🐙 GitHub: https://github.com/GoldenHeart2000
+
 
 ---
 
